@@ -216,7 +216,7 @@ $("input#submit").click(function(){
   // php
   <?php
 //add the recipient's address here
-$myemail = 'contact@tinymine.info';
+$myemail = 'nishakrish1501@gmail.com ';
 
 //grab named inputs from html then post to #thanks
 if (isset($_POST['name'])) {
