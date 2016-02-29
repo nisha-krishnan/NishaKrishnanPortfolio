@@ -1154,19 +1154,19 @@ p.inspiration{
 }
 .portfolio-modal .close-modal .lr {
 	z-index: 1051;
-	width: 5px;
-	height: 75px;
+	width: 2px;
+	height: 40px;
 	margin-left: 35px;
-	background-color: #222;
+	background-color: #e8e8e8;
 	-webkit-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	transform: rotate(45deg);
 }
 .portfolio-modal .close-modal .lr .rl {
 	z-index: 1052;
-	width: 5px;
-	height: 75px;
-	background-color: #222;
+	width: 2px;
+	height: 40px;
+	background-color: #e8e8e8;
 	-webkit-transform: rotate(90deg);
 	-ms-transform: rotate(90deg);
 	transform: rotate(90deg);
